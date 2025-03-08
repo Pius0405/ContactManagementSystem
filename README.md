@@ -1,5 +1,5 @@
 # ContactManagementSystem
-This is a command line contact management system for users to store contact details.
+This is a command line contact management system for users to store and manage contact details.
 # User Guidelines
 1. Open terminal
 2. Change directory into the folder for which ```project.c``` is stored.
